@@ -7,7 +7,7 @@ My fractol implements the Mandelbrot, Julia and Burninship sets.
 
 Once inside the program, movements and extra features are as follows:
 
-*******************************************
+
 *                                         *
 * Space:       activate psycho mode 🤡🔪  *
 * R:           reset                      *
@@ -18,7 +18,6 @@ Once inside the program, movements and extra features are as follows:
 * WASD:        move                       *
 * ESC & Q:     quit                       *
 *                                         *
-*******************************************
 
 Psycho mode is for hacking away on psychedelic effects. ;)
 
