@@ -5,6 +5,11 @@ This project was all about creating fractals that you could, in theory, infinite
 
 My fractol implements the Mandelbrot, Julia and Burninship sets.
 
+use:
+     ./fractol mandelbrot
+     ./fractol julia [float] [float]
+     ./fractol burningship
+
 Once inside the program, movements and extra features are as follows:
 
 - Space:       activate psycho mode 🤡🔪
