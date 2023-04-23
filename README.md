@@ -6,6 +6,8 @@ This project was all about creating fractals that you could, in theory, infinite
 My fractol implements the Mandelbrot, Julia and Burninship sets.
 
 use:
+
+
      ./fractol mandelbrot
      ./fractol julia [float] [float]
      ./fractol burningship
