@@ -27,6 +27,7 @@ Psycho mode is for hacking away on psychedelic effects. ;)
 
 This implementation passed all mandatory and bonues requirements.
 
+The subject of the project is included as always.
 
 <img width="666" alt="Screen Shot 2023-04-23 at 4 34 05 PM" src="https://user-images.githubusercontent.com/97135325/233842835-4e965f67-1582-4364-9fb0-c87ffb9b0ae4.png">
 
