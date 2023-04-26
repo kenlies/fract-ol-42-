@@ -24,6 +24,7 @@ Once inside the program, movements and extra features are as follows:
 - ESC & Q:     quit
 
 Psycho mode is for hacking away on psychedelic effects. ;)
+
 If you want to, and have the computing power to afford, you can go to the fractol.h file and increase the ITERATIONS count to draw a more accurate and "infinite" fractal.
 
 This implementation passed all mandatory and bonues requirements.
