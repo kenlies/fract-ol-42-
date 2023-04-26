@@ -3,7 +3,7 @@
 
 This project was all about creating fractals that you could, in theory, infinitely zoom into. It uses a library provided by the school, callled: MinilibX. The library includes basic necessary tools to open a window, create images and deal with keyboard and mouse events. If you are not using one of 42's Macs, then you will have to download and install the MinilibX library. I've included those as tar archive files.
 
-My fractol implements the Mandelbrot, Julia and Burninship sets.
+My fractol implements the Mandelbrot, Julia and Burningship sets.
 
 use:
 
