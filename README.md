@@ -1,7 +1,7 @@
 # fract-ol-42-
 ## My hive (42) school project for fract-ol
 
-This project was all about creating fractals that you could, in theory, infinitely zoom into. It uses a library provided by the school, callled: MinilibX. The library includes basic necessary tools to open a window, create images and deal with keyboard and mouse events. If you are not using one of 42's Macs, then you will have to download and install the MinilibX library. I've included those as tar archive files. You can follo the installation guide for your OS here: https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html
+This project was all about creating fractals that you could, in theory, infinitely zoom into. It uses a library provided by the school, callled: MinilibX. The library includes basic necessary tools to open a window, create images and deal with keyboard and mouse events. If you are not using one of 42's Macs, then you will have to download and install the MinilibX library. I've included those as tar archive files. You can follow the installation guide for your OS here: https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html
 
 My fractol implements the Mandelbrot, Julia and Burningship sets.
 
